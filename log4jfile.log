@@ -1,0 +1,5 @@
+2022-11-25 22:12:02,200 INFO  [Log] search_product() PASSED 
+2022-11-25 22:12:03,335 INFO  [Log] scrollDownToMoreProducts() PASSED 
+2022-11-25 22:12:04,007 INFO  [Log] clickMoreProduct() PASSED 
+2022-11-25 22:12:04,946 INFO  [Log] discountedFirstProduct() PASSED 
+2022-11-25 22:12:04,947 ERROR [Log] selectRandomSize() DISABLED with reason : Optional[Disabled because of unfinished work] 
